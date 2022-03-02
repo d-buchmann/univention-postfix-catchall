@@ -2,4 +2,4 @@
 Description[en]=Defines the prefix of the catchall address (Default: "catchall")
 Description[de]=Definiert den Prefix der catchall Adresse (Standard: "catchall")
 Type=str
-Category=Mail
+Category=mail
